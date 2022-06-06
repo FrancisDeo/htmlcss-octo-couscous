@@ -1,0 +1,26 @@
+body{
+
+background-color: rgb(175, 170, 248);
+color: rgb(0, 0, 0);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+line-height:1.6em;
+	margin:0;
+
+}
+.w3-container{
+	width:20%;
+	margin:auto;
+}
+.w4-container{
+	width:45%;
+	margin:auto;
+}
+
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    color: #28194b;
+    padding:8px;
+  
